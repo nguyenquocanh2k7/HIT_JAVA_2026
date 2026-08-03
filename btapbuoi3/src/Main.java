@@ -53,5 +53,6 @@ public class Main {
         }
         Mountain_points mountainPoints = new Mountain_points(arr);
         System.out.println(mountainPoints.countMountain());
+
     }
 }

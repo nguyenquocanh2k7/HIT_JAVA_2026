@@ -14,6 +14,7 @@ public class Mountain_points {
             index++;
         }
         return count;
+
     }
 }
 
